@@ -32,16 +32,46 @@ FAQ = {
         "password": "🔒 Puedes restablecer tu contraseña desde la web.",
         "bug": "🐞 Gracias por reportarlo. Por favor, envía una captura de pantalla y explica cómo ocurrió.",
         "error": "⚠️ Describe el error con el mayor detalle posible e incluye una captura si es posible.",
-        "gamma": "📈 La sección de Gamma recibe actualizaciones constantemente. Revisa <#1525310161537990666> para utilizar el heatmap y el gex.",
-        "welcome": "👋 ¡Hola! ¡Gracias por contactar con el soporte! Explica tu duda con detalle.\n\n### 🤖 Puedo ayudarte con:\n• Login, Password, Bugs, Errores, Gamma.\n\nSimplemente escribe tu pregunta aquí."
+        "gamma": "📈 La sección de Gamma recibe actualizaciones constantemente. Revisa <#1525310161537990666> para utilizar el heatmap y el gex con el /gex y /heatmap o compra <#1501337676576592052>.",
+        "welcome": """👋 ¡Hola! 
+
+¡Gracias por utilizar nuestros servicios y por contactar con el soporte!
+
+Para poder ayudarte más rápido, por favor explica tu duda o problema con el mayor detalle posible.
+
+### 🤖 Puedo ayudarte con preguntas como:
+• 🔑 Login
+• 🔒 Password
+• 🐞 Bugs
+• ⚠️ Errores
+• 📈 Gamma
+
+Simplemente escribe tu pregunta en este ticket.
+
+Si no puedo resolver tu consulta automáticamente, un miembro del staff te responderá lo antes posible."""
     },
     "en": {
         "login": "🔑 If you are having trouble logging in, your membership may have expired.",
         "password": "🔒 You can reset your password from the website.",
         "bug": "🐞 Thanks for reporting. Please send a screenshot and explain what happened.",
-        "error": "⚠️ Describe the error in detail and include a screenshot if possible.",
-        "gamma": "📈 The Gamma section is updated constantly. Check <#1525310161537990666> to use the heatmap and gex.",
-        "welcome": "👋 Hello! Thanks for contacting support! Please explain your issue in detail.\n\n### 🤖 I can help you with:\n• Login, Password, Bugs, Errors, Gamma.\n\nJust write your question here."
+        "error": "⚠️ Describe the error in as much detail as possible and include a screenshot if possible.",
+        "gamma": "📈 The Gamma section is updated constantly. Check <#1525310161537990666> to use the heatmap and gex with /gex or /heatmap or buy <#1501337676576592052>.",
+        "welcome": """👋 Hello! 
+
+Thanks for using our services and for contacting support!
+
+To help you faster, please explain your question or problem in as much detail as possible.
+
+### 🤖 I can help you with questions like:
+• 🔑 Login
+• 🔒 Password
+• 🐞 Bugs
+• ⚠️ Errors
+• 📈 Gamma
+
+Simply write your question in this ticket.
+
+If I cannot solve your query automatically, a staff member will reply as soon as possible."""
     }
 }
 
